@@ -1,12 +1,12 @@
 const { timnasa } = require('/../timnasa/timoth');
-const traduire = require("../timnasa/traduction") ;
+const traduire = require("/../timnasa/traduction") ;
 const { default: axios } = require('axios');
 //const conf = require('../set');
 
 
 
 
-timoth({nomCom:"timnasa",reaction:"📡",categorie:"IA"},async(dest,zk,commandeOptions)=>{
+timoth({nomCom:"timnas",reaction:"📡",categorie:"IA"},async(dest,zk,commandeOptions)=>{
 
   const {repondre,ms,arg}=commandeOptions;
   
