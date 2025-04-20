@@ -1,8 +1,5 @@
 ![](gravity.gif)
-
-A small game in C++/OpenGL
-
-Press s and drag the mouse on the screen to set the thrust force of the placed planet and try to make it orbit the   
+   
    <a href="https://signup.heroku.com/"><img title="CREATE-ACCOUNT" src="https://img.shields.io/badge/CREATE-ACCOUNT-h?color=blue&style=for-the-badge&logo=red" width="180" height="43.45"/></a></p>
 
    ☢️IF YOU ALREADY HAVE A HEROKU ACCOUNT...DEPLOY NOW
