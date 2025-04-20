@@ -1,6 +1,6 @@
 const {
-  zokou
-} = require("./../framework/zokou");
+  timoth
+} = require("./../timnasa/timoth");
 const {
   format,
   runtime
@@ -44,7 +44,7 @@ zokou(
   }
 )
 
-zokou(
+timoth(
   {
     nomCom: 'desc',
     reaction: 'ℹ',
@@ -121,7 +121,7 @@ _CPU Core(s) Usage (${cpus.length} Core CPU)_
   }
 );
 
-zokou(
+timoth(
   {
     nomCom: 'runtime',
     reaction: '🚨',
