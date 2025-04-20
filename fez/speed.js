@@ -12,7 +12,7 @@ const {
 } = require('perf_hooks');
 const conf = require('../set');
 
-zokou(
+timoth(
   {
     nomCom: 'ping',
     categorie: 'General',
